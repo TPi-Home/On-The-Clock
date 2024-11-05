@@ -1,0 +1,6 @@
+## Interface: 110005
+## Title: OnTheClock
+## Notes: Automatically AFKs or teleports you out of dungeons if inactive
+## Author: Tyler Pittman
+
+OnTheClockmain.lua
